@@ -1,0 +1,15 @@
+
+
+windows環境でのpyinstallerの作り方
+
+windowsのデスクトップ
+C:\Users\bayashi\Desktop
+
+
+macのデスクトップ
+X:\
+
+anacondaのターミナルで
+pyinstaller main.py --onefile
+
+を実行
